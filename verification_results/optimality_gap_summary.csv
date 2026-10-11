@@ -1,0 +1,4 @@
+dataset,n,unique_tours,optimum,repetitions,as_min_length,as_mean_length,as_max_length,min_gap_pct,mean_gap_pct,std_gap_pct,max_gap_pct,optimal_found_count,success_rate_pct
+V-03,3,1,9.0,5,9.0,9.0,9.0,0.0,0.0,0.0,0.0,5,100.0
+V-04,4,3,13.0,5,13.0,13.0,13.0,0.0,0.0,0.0,0.0,5,100.0
+V-05,5,12,18.0,5,18.0,18.0,18.0,0.0,0.0,0.0,0.0,5,100.0
